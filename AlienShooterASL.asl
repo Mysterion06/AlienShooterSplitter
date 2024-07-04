@@ -1,3 +1,6 @@
+//Credits Mysterion352
+//Commissioned by ALLAN
+
 state("AlienShooter")
 {
     int missionNumber: 0x00122C20, 0x178, 0x1510;
